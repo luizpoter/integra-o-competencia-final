@@ -1,0 +1,10 @@
+{
+  "ricos": [
+    {
+      "nome": "Tywin Lannister",
+      "img": "assets/tywin.jpeg",
+      "fortuna": "1,8 bilhão",
+      "id": 1
+    }
+  ]
+}
